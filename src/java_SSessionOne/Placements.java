@@ -58,24 +58,11 @@ public class Placements {
 				else
 				{
 					System.out.println("MECH");
+					System.out.println("highest placement\n\nCSE\n\nMECH");
 				}
 			}
 	}
 		
-//		if(CSE>ECE && ECE>MECH)
-//		{
-//			System.out.println("CSE secured Highest placement:"+CSE);
-//		}
-//			   
-//
-//			elif (b>a and b>c):
-//
-//			   print("ECE secured highest placement:",b)
-//
-//			else:
-//
-//			   print("MECH secured highest placement:",c)
-//		}
 
 
 	public static void main(String[] args) {
